@@ -1,0 +1,17 @@
+{
+    "$schema": "https://raw.githubusercontent.com/escapepz/project-zomboid-studio/refs/heads/42.17.0/pzstudio.schema.json",
+    "workshop": {
+        "title": "PZAPI-School",
+        "visibility": "unlisted",
+        "tags": [
+            "Build 42"
+        ]
+    },
+    "mods": {
+        "pzapischool": {
+            "name": "PZAPI-School",
+            "description": ""
+        }
+    },
+    "excludes": []
+}
